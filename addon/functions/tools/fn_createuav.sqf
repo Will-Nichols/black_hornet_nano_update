@@ -5,7 +5,7 @@ _uavStatic = createVehicle ["tut_R22", player modelToWorld [0,1.5,0],[],0,"CAN_C
         "Pick up Uav",
         "\A3\ui_f\data\igui\cfg\actions\repair_ca.paa",
         {
-            // ace progressbar for getting on
+            // ace progressbar for picking up
             [
                 3,
                 [_target],
